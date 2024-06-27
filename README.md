@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+#环境：numpy：1.23.1
+#torch：2.3.1——py3.9_cuda12.1_cudnn8_0
+#gym：0.26.2
 <!--
 **Sound-Zero/Sound-Zero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

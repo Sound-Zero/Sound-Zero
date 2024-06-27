@@ -6,6 +6,12 @@ torch：2.3.1——py3.9_cuda12.1_cudnn8_0
 
 gym：0.26.2
 
+#演示：
+![DQN](https://github.com/Sound-Zero/Sound-Zero/blob/main/MyProject/DQN/DQN_second_round.gif)
+
+![PPO](https://github.com/Sound-Zero/Sound-Zero/tree/main/MyProject/PPO/PPO_second_round.gif)
+
+
 #参考资料：
 https://gymnasium.farama.org/environments/box2d/lunar_lander/
 

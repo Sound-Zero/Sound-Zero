@@ -7,8 +7,11 @@ torch：2.3.1——py3.9_cuda12.1_cudnn8_0
 gym：0.26.2
 
 #演示：
+
+DQN:
 ![DQN](https://github.com/Sound-Zero/Sound-Zero/blob/main/MyProject/DQN/DQN_second_round.gif)
 
+PPO:
 ![PPO](https://github.com/Sound-Zero/Sound-Zero/tree/main/MyProject/PPO/PPO_second_round.gif)
 
 

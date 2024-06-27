@@ -11,8 +11,10 @@ gym：0.26.2
 DQN:
 ![DQN](https://github.com/Sound-Zero/Sound-Zero/blob/main/MyProject/DQN/DQN_second_round.gif)
 
+
+
 PPO:
-![PPO](https://github.com/Sound-Zero/Sound-Zero/tree/main/MyProject/PPO/PPO_second_round.gif)
+![PPO](https://github.com/Sound-Zero/Sound-Zero/blob/main/MyProject/PPO/PPO_second_round.gif)
 
 
 #参考资料：

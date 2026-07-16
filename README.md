@@ -1,7 +1,4 @@
-# Sound-Zero
-
 RL、CV、Machine Learning、Algorithm。
-
 
 ## 项目
 
